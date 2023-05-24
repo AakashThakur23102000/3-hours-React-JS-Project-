@@ -1,0 +1,19 @@
+.products_upload_div{
+    min-width: 100%;
+    min-height: 140px;
+    background-color: whitesmoke;
+    padding-top: 80px;
+}
+.products_upload_form{
+    text-align: center;
+}
+
+
+.products_upload_button{
+    border: none;
+    background-color: rgb(255, 216, 19);
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    margin-top: 20px;
+}
